@@ -85,7 +85,7 @@ export function Dashboard() {
 
   return (
     <>
-      <Header openModal={toggleEditFoodModal} />
+      <Header openModal={toggleAddFoodModal} />
 
       <ModalAddFood
         isOpen={isModalAddFoodOpen}
