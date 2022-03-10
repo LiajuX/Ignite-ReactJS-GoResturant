@@ -40,7 +40,7 @@ The 4th challenge was to refactor an application from class to functional compon
 
 <br>
 
-![RocketShoes](https://user-images.githubusercontent.com/53796370/157710774-aff50f75-5e30-4ace-abb7-a571756de602.gif)
+![GoRestaurant](https://user-images.githubusercontent.com/53796370/157715728-3e8b02bf-5d37-4b8d-8d1f-d02119505eaf.gif)
 
 <br/>
 
