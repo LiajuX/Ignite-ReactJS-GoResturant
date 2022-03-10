@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="./src/assets/logo-readme.svg" alt="GoResturant" width="550px">
+  <img src="./src/assets/logo.svg" alt="GoResturant" width="550px">
 </h1>
 
 <p align="center">
